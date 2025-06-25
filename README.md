@@ -1,9 +1,17 @@
+💫 About Me:
+Hi, I'm Rajan Kumar
+Python Developer | Data Analyst | Visualization Expert
 
+🔹 Passionate about turning raw data into powerful insights and compelling stories.
+🔹 Skilled in Python, Data Analysis, Data Modeling, and Data Visualization.
+🔹 Expertise in building scalable solutions that make data speak clearly and impactfully.
 
+Key Skills
+✔ Data Handling & Wrangling – Cleaning, transforming, and structuring data for analysis.
+✔ Statistical Analysis – Deriving meaningful patterns and trends from datasets.
+✔ Dashboarding & Reporting – Creating interactive visualizations with tools like Power BI/Tableau.
 
-# 💫 About Me:
-## Hi I'm Rajan Kumar<br><br>🚀 Python Dev | Data Wizard | Insight Alchemist<br/><br>Passionate about turning raw data into powerful stories. Skilled in Python, Data Analysis, Modeling & Visualization. Building scalable solutions that speak numbers—loud and clear!<br/><br>Transforming raw data into actionable insights with Python, Pandas, SQL & Power BI/Tableau. Clean, analyze, model, and visualize—turning chaos into clarity.<br/><br>🔹 Data Handling 🔹 Data Wrangling | 🔹 Statistical Analysis | 🔹 Dashboarding<br/><br>🔹 Pandas | NumPy | Matplotlib/Seaborn | SQL | Scikit-learn<br/><br><br>Let’s decode data, one script at a time! ⚡<br/><br><br>I also make funny content which can relax one's mood on my [Instagram](https://www.instagram.com/i_m_vengeance106/?__pwa=1)<br/> 
-
+Tech Stack
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@I_m_Vengeance106) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rajan Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kushrajan065@gmail.com) 
